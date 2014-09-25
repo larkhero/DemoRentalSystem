@@ -9,7 +9,6 @@ package demorentalsystem;
  *
  * @author chiayin
  */
-public class Game {
-    private String title;
-    private String description;
+public class NewClass {
+    
 }
