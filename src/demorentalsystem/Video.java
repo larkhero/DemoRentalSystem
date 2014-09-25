@@ -13,7 +13,7 @@ package demorentalsystem;
 public class Video extends RentalItem{
     private String producer;
     private String cast;
-    private String genre="comdy";
+    private String genre;
     private String storyLine;
     
     public Video(String t, int y, String g){
